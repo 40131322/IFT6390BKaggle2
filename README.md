@@ -1,4 +1,7 @@
-# IFT6390BKaggle2
+# IFT6390B Kaggle 2
+
+https://www.kaggle.com/competitions/ift3395-ift6390-identification-maladies-retine 
+
 ## Description
 
 This competition aims to identify various retinal diseases present in optical coherence tomography (OCT) images. The data describes four diagnostic types (classes):
